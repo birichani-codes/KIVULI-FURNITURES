@@ -1,0 +1,22 @@
+{
+  "brand": "Kivuli Homeworks",
+  "tagline": "Where Creativity Creates Comfort.",
+  "phone": "+254 707 268 547",
+  "whatsapp": "254707268547",
+  "email": "hello@kivulihomeworks.co.ke",
+  "location": "Juja, Kiambu County, Kenya - delivering countrywide",
+  "hours": "Mon - Sat, 9:00 AM - 6:00 PM",
+  "colors": [
+    "Deep Green",
+    "Warm Ivory",
+    "Soft Black"
+  ],
+  "payment": {
+    "mode": "M-Pesa STK Push through Safaricom Daraja",
+    "note": "Customers enter their phone number at checkout and confirm the prompt on their phone."
+  },
+  "seo": {
+    "title": "Kivuli Homeworks | Where Creativity Creates Comfort",
+    "description": "A creative furniture lab in Juja, Kiambu. Shop sofas, beds, dining sets, TV stands and AI custom furniture with M-Pesa checkout and Kenya-wide delivery."
+  }
+}

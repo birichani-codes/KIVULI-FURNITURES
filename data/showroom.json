@@ -1,0 +1,30 @@
+{
+  "title": "Juja Furniture Studio, Kenya-Wide Delivery",
+  "intro": "We are based in Juja, Kiambu County, serving Nairobi, Kiambu, Thika Road routes and customers across Kenya through scheduled delivery and courier coordination.",
+  "locations": [
+    {
+      "name": "Juja Workshop & Orders Base",
+      "area": "Juja, Kiambu County",
+      "note": "Custom furniture planning, workshop coordination, WhatsApp orders and pick-up scheduling."
+    },
+    {
+      "name": "Kiambu & Nairobi Delivery Route",
+      "area": "Kiambu Town, Ruiru, Thika Road, Ruaka, Nairobi estates and surrounding towns",
+      "note": "Scheduled delivery and installation for ready pieces and custom orders."
+    },
+    {
+      "name": "Kenya-Wide Orders",
+      "area": "Mombasa, Nakuru, Eldoret, Kisumu, Nyeri and other towns",
+      "note": "Countrywide delivery quotation is confirmed depending on item size, packaging and route."
+    }
+  ],
+  "services": [
+    "AI custom design preview",
+    "Room measurement guidance",
+    "Custom color selection",
+    "WhatsApp ordering",
+    "M-Pesa checkout",
+    "Kiambu, Nairobi and Kenya-wide delivery",
+    "After-sale support"
+  ]
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 160" role="img" aria-labelledby="title desc">
+  <title id="title">Kivuli Homeworks Logo</title>
+  <desc id="desc">A deep green shelter icon with a chair and shadow next to the Kivuli Homeworks wordmark.</desc>
+  <defs>
+    <style>
+      .green{fill:#1F3D2E}.black{fill:#1A1A1A}.ivory{fill:#F6F3EC}.line{stroke:#1F3D2E;stroke-width:3;stroke-linecap:round}
+    </style>
+  </defs>
+  <g transform="translate(12 10)">
+    <path class="green" d="M58 6h20c40 0 72 32 72 72v58H52C25 136 4 115 4 88V60C4 30 28 6 58 6Z"/>
+    <path class="ivory" d="M38 83 105 35l7 10-58 42v31H38Z"/>
+    <path class="ivory" d="M59 92h23v26H59Z"/>
+    <path class="ivory" d="M34 124h96l-72-18z" opacity=".95"/>
+    <path class="ivory" d="M98 80c13 0 23 8 23 20v12H92V86c0-3 3-6 6-6Z"/>
+    <path class="ivory" d="M98 111h5v20h-5zm17 0h5v20h-5z"/>
+    <path class="black" d="M92 106h33v8H92z" opacity=".22"/>
+  </g>
+  <line class="line" x1="190" y1="28" x2="190" y2="132" opacity=".75"/>
+  <g transform="translate(220 30)">
+    <text x="0" y="56" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="-3" class="green">Kivuli</text>
+    <text x="0" y="112" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="400" letter-spacing="-3" class="black">Homeworks</text>
+    <line class="line" x1="0" y1="134" x2="34" y2="134"/>
+    <text x="50" y="140" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3" class="green">WHERE CREATIVITY CREATES COMFORT</text>
+    <line class="line" x1="382" y1="134" x2="416" y2="134"/>
+  </g>
+</svg>

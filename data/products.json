@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sofa-amani-3",
+    "name": "Amani 3-Seater Sofa",
+    "category": "living-room",
+    "price": 48500,
+    "tag": "Best seller",
+    "description": "A clean, modern 3-seater with firm cushions, soft-touch fabric and strong hardwood framing.",
+    "features": ["Hardwood frame", "High-density cushions", "Custom fabric options", "Good for apartments"],
+    "imageClass": "product-sofa"
+  },
+  {
+    "id": "sofa-karen-l",
+    "name": "Karen L-Shape Lounger",
+    "category": "living-room",
+    "price": 78000,
+    "tag": "Large family rooms",
+    "description": "An elegant L-shape sofa for relaxed weekends, hosting and open-plan living rooms.",
+    "features": ["Left or right chaise", "Stain-friendly fabric", "Deep seats", "Custom size available"],
+    "imageClass": "product-lshape"
+  },
+  {
+    "id": "tv-stand-limuru",
+    "name": "Limuru Floating TV Stand",
+    "category": "living-room",
+    "price": 26500,
+    "tag": "Wall-ready",
+    "description": "A minimal media console with concealed cable routing and warm wood texture.",
+    "features": ["Cable management", "Soft-close doors", "Wall mount option", "Custom length"],
+    "imageClass": "product-tv"
+  },
+  {
+    "id": "bed-runda-queen",
+    "name": "Runda Queen Bed",
+    "category": "bedroom",
+    "price": 56000,
+    "tag": "Hotel feel",
+    "description": "A padded queen bed with a tall headboard, sturdy base and premium bedroom presence.",
+    "features": ["Queen size", "Tall padded headboard", "Strong base", "Fabric options"],
+    "imageClass": "product-bed"
+  },
+  {
+    "id": "wardrobe-kiambu",
+    "name": "Kiambu Sliding Wardrobe",
+    "category": "bedroom",
+    "price": 69000,
+    "tag": "Custom storage",
+    "description": "A sliding-door wardrobe designed for Kenyan bedrooms where smart storage matters.",
+    "features": ["Sliding doors", "Mirror option", "Drawers included", "Custom height"],
+    "imageClass": "product-wardrobe"
+  },
+  {
+    "id": "dining-thika-6",
+    "name": "Thika Road 6-Seater Dining Set",
+    "category": "dining",
+    "price": 72000,
+    "tag": "Family choice",
+    "description": "A six-seater dining set with warm finishing and comfortable upholstered chairs.",
+    "features": ["6 chairs", "Solid tabletop", "Upholstered seats", "Custom finish"],
+    "imageClass": "product-dining"
+  },
+  {
+    "id": "office-westlands",
+    "name": "Westlands Work Desk",
+    "category": "custom",
+    "price": 32500,
+    "tag": "Home office",
+    "description": "A refined desk for home offices, study rooms and modern work corners.",
+    "features": ["Cable slot", "Two drawers", "Compact footprint", "Custom color"],
+    "imageClass": "product-desk"
+  },
+  {
+    "id": "custom-package",
+    "name": "Custom Room Package",
+    "category": "custom",
+    "price": 120000,
+    "tag": "Made to measure",
+    "description": "A design consultation package for sofas, beds, wardrobes or full-room furniture sets.",
+    "features": ["Space measurement", "Material guidance", "Quote included", "Delivery planning"],
+    "imageClass": "product-custom"
+  }
+]

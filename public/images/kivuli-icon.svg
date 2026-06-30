@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Kivuli Homeworks icon">
+  <rect width="180" height="180" rx="42" fill="#1F3D2E"/>
+  <path fill="#F6F3EC" d="M42 102 120 46l8 12-66 48v34H42Z"/>
+  <path fill="#F6F3EC" d="M66 112h27v30H66Z"/>
+  <path fill="#F6F3EC" d="M38 148h108L64 127z" opacity=".95"/>
+  <path fill="#F6F3EC" d="M109 96c14 0 26 9 26 23v13h-33v-29c0-4 3-7 7-7Z"/>
+  <path fill="#F6F3EC" d="M109 131h6v24h-6zm19 0h6v24h-6z"/>
+  <path fill="#1A1A1A" d="M102 126h37v9h-37z" opacity=".22"/>
+</svg>

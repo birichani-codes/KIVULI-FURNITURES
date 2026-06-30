@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "living-room",
+    "title": "Living Room",
+    "line": "Sofas, coffee tables, TV stands and calm everyday pieces.",
+    "imageClass": "img-living"
+  },
+  {
+    "slug": "bedroom",
+    "title": "Bedroom",
+    "line": "Beds, headboards, wardrobes and dressers built for restful homes.",
+    "imageClass": "img-bedroom"
+  },
+  {
+    "slug": "dining",
+    "title": "Dining",
+    "line": "Tables, chairs and family sets for apartments and spacious homes.",
+    "imageClass": "img-dining"
+  },
+  {
+    "slug": "custom",
+    "title": "Custom Studio",
+    "line": "Made-to-measure furniture for your space, color and budget.",
+    "imageClass": "img-custom"
+  }
+]
